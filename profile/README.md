@@ -5,3 +5,9 @@ uni-helper 旨在增强 uni-app 系列产品的开发体验。作为靠爱发电
 uni-helper 欢迎有意愿增强 uni-app 系列产品的开发体验的朋友加入。让我们一起把 uni-app 系列产品变得更好。❤
 
 你可以加入 QQ 交流群 206592636，和我们沟通想法 💡。对于使用过程中遇到的问题，我们仍然建议使用 ISSUE 提交，因为这可以供大家查阅，确保信息流动。
+
+<img
+  src="https://user-images.githubusercontent.com/18414281/221080516-1478c7d1-8faf-42dd-b8a3-1868b0e5e7d3.JPG"
+  width="256px"
+  align="center"
+>
