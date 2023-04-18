@@ -1,15 +1,27 @@
-# uni-helper
 
-uni-helper 旨在增强 uni-app 系列产品的开发体验。作为靠爱发电的非官方项目，uni-helper 提供了打包工具插件支持、编辑器扩展支持、NPM 包等并尽力维护它们。
-
-uni-helper 欢迎有意愿增强 uni-app 系列产品的开发体验的朋友加入。让我们一起把 uni-app 系列产品变得更好。❤
-
-你可以加入 QQ 交流群 206592636，和我们沟通想法 💡。对于使用过程中遇到的问题，我们仍然建议使用 ISSUE 提交，因为这可以供大家查阅，确保信息流动。
-
-<p>
-  <img
-    src="https://user-images.githubusercontent.com/18414281/221080516-1478c7d1-8faf-42dd-b8a3-1868b0e5e7d3.JPG"
-    width="256px"
-    align="center"
-  >
+<p align="center">
+<img src="https://github.com/uni-helper/website/raw/main/.github/assets/uni-helper-banner.png">
 </p>
+
+<p align="center">
+<a href="https://uni-helper.js.org/"><img src="https://img.shields.io/badge/官网-Uni%20Helper-2b9939?style=flat-square" alt="Website"></a>
+<a href="./LICENSE"><img src="https://img.shields.io/github/license/uni-helper/.github.svg?style=flat-square&colorB=2b9939" alt="License"></a>
+<a href="https://www.npmjs.com/org/uni-helper/"><img src="https://img.shields.io/badge/NPM-组织-2b9939?style=flat-square&logo=npm" alt="NPM"></a>
+<a href="https://qm.qq.com/cgi-bin/qm/qr?k=hZdEls2BYb9ZPIaXBxZoNnVwthtJKvcP&jump_from=webapi&authKey=X2GTdlKc1MHuTraaQ3q7TXTOwYo0R0cMoU6B9/OKkBTjLckze7u5BR5NlrnHjTss"><img src="https://img.shields.io/badge/QQ-群-2b9939?style=flat-square&logo=tencentqq" alt="QQGroup"></a>
+</p>
+
+
+# 👋 欢迎来到 Uni Helper
+
+Uni Helper 的目标是让 uni-app 开发变得更直观、高效，并提供出色的开发体验
+
+## 🪄 官网
+
+看看我们的官网 [uni-helper.js.org](https://uni-helper.js.org/)，探索 Uni-Helper 的所有项目。
+
+## 💬 社区
+
+uni-helper 欢迎有意愿增强 uni-app 系列产品的开发体验的朋友加入, 让我们一起把 uni-app 系列产品变得更好。❤
+
+- [QQ 交流群 206592636](https://qm.qq.com/cgi-bin/qm/qr?k=hZdEls2BYb9ZPIaXBxZoNnVwthtJKvcP&jump_from=webapi&authKey=X2GTdlKc1MHuTraaQ3q7TXTOwYo0R0cMoU6B9/OKkBTjLckze7u5BR5NlrnHjTss)
+- [Discussions](https://github.com/orgs/uni-helper/discussions)
