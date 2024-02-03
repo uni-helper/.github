@@ -16,7 +16,7 @@ body:
     id: reproduction
     attributes:
       label: 复现
-      description: 一个 [最小复现](https://stackoverflow.com/help/minimal-reproducible-example) 是 **必须的**，否则该问题可能会被关闭而没有进一步的通知。
+      description: 一个 [最小复现](https://antfu.me/posts/why-reproductions-are-required-zh) 是 **必须的**，否则该问题可能会被关闭而没有进一步的通知。
       placeholder: 复现
     validations:
       required: true

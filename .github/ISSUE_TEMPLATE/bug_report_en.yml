@@ -16,7 +16,7 @@ body:
     id: reproduction
     attributes:
       label: Reproduction
-      description: A [minimal reproduction](https://stackoverflow.com/help/minimal-reproducible-example) is **required**, otherwise the issue might be closed without further notice.
+      description: A [minimal reproduction](https://antfu.me/posts/why-reproductions-are-required) is **required**, otherwise the issue might be closed without further notice.
       placeholder: Reproduction
     validations:
       required: true
