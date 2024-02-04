@@ -3,7 +3,7 @@ description: Report an issue
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time to fill out this bug report!
+      value: Thank you for taking the time to fill out this issue report! We highly recommend reading [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer) first to get an idea of our current state, and we appreciate your understanding!
   - type: textarea
     id: bug-description
     attributes:

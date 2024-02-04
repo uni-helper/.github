@@ -3,7 +3,7 @@ description: Propose a new feature
 body:
   - type: markdown
     attributes:
-      value: Thanks for your interest in the project and taking the time to fill out this feature report!
+      value: Thank you for your interest in the project and taking the time to fill out this feature report! We highly recommend reading [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer) first to get an idea of our current state, and we appreciate your understanding!
   - type: textarea
     id: feature-description
     attributes:

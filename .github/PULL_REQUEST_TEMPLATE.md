@@ -3,11 +3,11 @@
 DO NOT INGORE THE TEMPLATE!
 请不要忽视这个模板！
 
-Thank you for contributing!
-感谢你的贡献！
+Thank you for contributing! We highly recommend reading [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer) first to get an idea of our current state, and we appreciate your understanding!
+感谢你的贡献！我们非常推荐先阅读 [一位疲惫的维护者的笔记](https://github.com/ModyQyW/tired-maintainer) 以了解我们目前的状态，感谢你的理解！
 
 Before submitting the PR, please make sure you do the following:
-在提交PR之前，请确保你做到以下几点：
+在提交 PR 之前，请确保你做到以下几点：
 
 - Check that there isn't already a PR that solves the problem the same way to avoid creating a duplicate.
 - Provide a description in this PR that addresses **what** the PR is solving, or reference the issue that it solves (e.g. `fixes #123`).
@@ -28,7 +28,6 @@ Please insert your description here and provide especially info about the "what"
 -->
 
 ### Linked Issues 关联的 Issues
-
 
 ### Additional context 额外上下文
 

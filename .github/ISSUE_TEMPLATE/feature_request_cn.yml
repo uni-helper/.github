@@ -3,7 +3,7 @@ description: 提出一个新的功能
 body:
   - type: markdown
     attributes:
-      value: 感谢你关注这个项目并花时间填写这个功能报告！
+      value: 感谢你关注这个项目并花时间填写这个功能报告！我们非常推荐先阅读 [一位疲惫的维护者的笔记](https://github.com/ModyQyW/tired-maintainer) 以了解我们目前的状态，感谢你的理解！
   - type: textarea
     id: feature-description
     attributes:

@@ -3,7 +3,7 @@ description: 报告一个 issue
 body:
   - type: markdown
     attributes:
-      value: 感谢你花时间填写这个问题报告！
+      value: 感谢你花时间填写这个问题报告！我们非常推荐先阅读 [一位疲惫的维护者的笔记](https://github.com/ModyQyW/tired-maintainer) 以了解我们目前的状态，感谢你的理解！
   - type: textarea
     id: bug-description
     attributes:
