@@ -13,7 +13,7 @@
 
 # 👋 欢迎来到 Uni Helper
 
-Uni Helper 的目标是让 uni-app 开发变得更直观、高效，并提供出色的开发体验
+Uni Helper 的目标是让 uni-app 开发过程更直观、高效，开发体验更出色！
 
 ## 🪄 官网
 
