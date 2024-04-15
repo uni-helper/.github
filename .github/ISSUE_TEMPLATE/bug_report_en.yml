@@ -24,8 +24,8 @@ body:
     id: system-info
     attributes:
       label: System Info
-      description: Output of `npx envinfo --system --binaries --browsers`, and VSCode configs (like Volar version and configs) if possible
-      render: Shell
+      description: Get it by running `npx create-uni@latest- -info ` under the project root directory
+      placeholder: System Info
     validations:
       required: true
   - type: dropdown
