@@ -24,8 +24,8 @@ body:
     id: system-info
     attributes:
       label: 系统信息
-      description: 运行 `npx envinfo --system --binaries --browsers` 的输出，如果可以请附上 VSCode 的配置（如 Volar 版本、配置等）
-      render: Shell
+      description: 可在项目根目录下运行 `npx create-uni@latest --info` 获取
+      placeholder: 系统信息
     validations:
       required: true
   - type: dropdown
