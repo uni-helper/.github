@@ -3,7 +3,7 @@ description: Propose a new feature
 body:
   - type: markdown
     attributes:
-      value: Thank you for your interest in the project and taking the time to fill out this feature report! We highly recommend reading [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer) first to get an idea of our current state, and we appreciate your understanding!
+      value: Thank you for your interest in the project and taking the time to fill out this feature report!
   - type: textarea
     id: feature-description
     attributes:
@@ -35,6 +35,8 @@ body:
       description: Before submitting the issue, please make sure you do the following
       options:
         - label: Follow our [Code of Conduct](https://github.com/uni-helper/.github/blob/main/CODE_OF_CONDUCT.md)
+          required: true
+        - label: Read the [Contributing Guide](https://github.com/antfu/contribute) and [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer).
           required: true
         - label: Check that there isn't already an issue that request the same feature to avoid creating a duplicate.
           required: true

@@ -3,7 +3,7 @@ description: 报告一个 issue
 body:
   - type: markdown
     attributes:
-      value: 感谢你花时间填写这个问题报告！我们非常推荐先阅读 [一位疲惫的维护者的笔记](https://github.com/ModyQyW/tired-maintainer) 以了解我们目前的状态，感谢你的理解！
+      value: 感谢你花时间填写这个问题报告！
   - type: textarea
     id: bug-description
     attributes:
@@ -16,7 +16,7 @@ body:
     id: reproduction
     attributes:
       label: 复现
-      description: 一个 [最小复现](https://antfu.me/posts/why-reproductions-are-required-zh) 是 **必须的**，否则该问题可能会被关闭而没有进一步的通知。
+      description: 一个最小复现是 **必须的**，否则该问题可能会被关闭而没有进一步的通知。[**为什么 & 怎么做？**](https://antfu.me/posts/why-reproductions-are-required-zh)
       placeholder: 复现
     validations:
       required: true
@@ -49,9 +49,19 @@ body:
       options:
         - label: 遵循我们的 [行为准则](https://github.com/uni-helper/.github/blob/main/CODE_OF_CONDUCT.md)
           required: true
+        - label: 阅读 [贡献指南](https://github.com/antfu/contribute) 和 [一位疲惫的维护者的笔记](https://github.com/ModyQyW/tired-maintainer)。
+          required: true
         - label: 检查是否已经有一个报告相同错误的问题，以避免重复创建。
           required: true
         - label: 这是一个具体的错误。请开启 GitHub 讨论你的疑问。
           required: true
         - label: 所提供的复现是这个问题的 [最小复现](https://stackoverflow.com/help/minimal-reproducible-example)。
           required: true
+  - type: checkboxes
+    id: contributions
+    attributes:
+      label: 贡献
+      description: 请注意，开源项目由志愿者维护，你的案例可能并不总是与其他案例相关。如果你能帮助调查并提出解决方案，事情就会进展得更快。
+      options:
+        - label: 我愿意提交一个 PR 修复这个问题
+        - label: 我愿意提交一个 PR 带有失败的测试（实际上只要去做就好，谢谢！）

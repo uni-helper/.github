@@ -3,15 +3,14 @@
 DO NOT INGORE THE TEMPLATE!
 请不要忽视这个模板！
 
-Thank you for contributing! We highly recommend reading [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer) first to get an idea of our current state, and we appreciate your understanding!
-感谢你的贡献！我们非常推荐先阅读 [一位疲惫的维护者的笔记](https://github.com/ModyQyW/tired-maintainer) 以了解我们目前的状态，感谢你的理解！
-
 Before submitting the PR, please make sure you do the following:
 在提交 PR 之前，请确保你做到以下几点：
 
+- Read the [Contributing Guide](https://github.com/antfu/contribute) and [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer).
 - Check that there isn't already a PR that solves the problem the same way to avoid creating a duplicate.
 - Provide a description in this PR that addresses **what** the PR is solving, or reference the issue that it solves (e.g. `fixes #123`).
 - Ideally, include relevant tests that fail without this PR but pass with it.
+- 阅读 [贡献指南](https://github.com/antfu/contribute) 和 [一位疲惫的维护者的笔记](https://github.com/ModyQyW/tired-maintainer)。
 - 检查是否已经有一个以同样方式解决该问题的 PR，以避免重复创建。
 - 在这个 PR 中描述 **PR 所要解决的问题**，或者引用它所解决的问题（例如 `fixes #123`）。
 - 理想情况下，提交没有这个 PR 的情况下失败但在有 PR 的情况下通过的相关测试。

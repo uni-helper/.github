@@ -3,7 +3,7 @@ description: Report an issue
 body:
   - type: markdown
     attributes:
-      value: Thank you for taking the time to fill out this issue report! We highly recommend reading [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer) first to get an idea of our current state, and we appreciate your understanding!
+      value: Thank you for taking the time to fill out this issue report!
   - type: textarea
     id: bug-description
     attributes:
@@ -16,7 +16,7 @@ body:
     id: reproduction
     attributes:
       label: Reproduction
-      description: A [minimal reproduction](https://antfu.me/posts/why-reproductions-are-required) is **required**, otherwise the issue might be closed without further notice.
+      description: A minimal reproduction is **required**, otherwise the issue might be closed without further notice. [**Why & How?**](https://antfu.me/posts/why-reproductions-are-required)
       placeholder: Reproduction
     validations:
       required: true
@@ -49,9 +49,19 @@ body:
       options:
         - label: Follow our [Code of Conduct](https://github.com/uni-helper/.github/blob/main/CODE_OF_CONDUCT.md)
           required: true
+        - label: Read the [Contributing Guide](https://github.com/antfu/contribute) and [Notes from a tired maintainer](https://github.com/pi0/tired-maintainer).
+          required: true
         - label: Check that there isn't already an issue that reports the same bug to avoid creating a duplicate.
           required: true
         - label: Check that this is a concrete bug. For Q&A, please open a GitHub Discussion instead.
           required: true
         - label: The provided reproduction is a [minimal reproducible](https://stackoverflow.com/help/minimal-reproducible-example) of the bug.
           required: true
+  - type: checkboxes
+    id: contributions
+    attributes:
+      label: Contributions
+      description: Please note that Open Source projects are maintained by volunteers, where your cases might not be always relevant to the others. It would make things move faster if you could help investigate and propose solutions.
+      options:
+        - label: I am willing to submit a PR to fix this issue
+        - label: I am willing to submit a PR with failing tests (actually just go ahead and do it, thanks!)
