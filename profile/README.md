@@ -12,12 +12,6 @@
   <a href="https://www.npmjs.com/org/uni-helper/">
     <img src="https://img.shields.io/badge/NPM-组织-2b9939?style=for-the-badge&logo=npm" alt="NPM">
   </a>
-  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=hZdEls2BYb9ZPIaXBxZoNnVwthtJKvcP&jump_from=webapi&authKey=X2GTdlKc1MHuTraaQ3q7TXTOwYo0R0cMoU6B9/OKkBTjLckze7u5BR5NlrnHjTss">
-    <img src="https://img.shields.io/badge/QQ-交流群-2b9939?style=for-the-badge&logo=tencentqq" alt="QQ Group">
-  </a>
-  <a href="https://wx.hlcode.cn/?id=NE0myp6">
-    <img src="https://img.shields.io/badge/微信-交流群-2b9939?style=for-the-badge&logo=wechat" alt="WeChat Group">
-  </a>
 </p>
 
 # 👋 欢迎来到 Uni Helper
