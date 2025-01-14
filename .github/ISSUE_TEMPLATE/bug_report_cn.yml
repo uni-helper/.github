@@ -24,7 +24,7 @@ body:
     id: system-info
     attributes:
       label: 系统信息
-      description: 可在项目根目录下运行 `npx create-uni@latest --info` 获取
+      description: 可在项目根目录下运行 `npx @create-uni/info@latest` 获取
       placeholder: 系统信息
     validations:
       required: true

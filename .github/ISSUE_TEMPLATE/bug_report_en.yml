@@ -24,7 +24,7 @@ body:
     id: system-info
     attributes:
       label: System Info
-      description: Get it by running `npx create-uni@latest --info` under the project root directory
+      description: Get it by running `npx @create-uni/info@latest` under the project root directory
       placeholder: System Info
     validations:
       required: true
