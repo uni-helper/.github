@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://uni-helper.js.org/">
+  <a href="https://uni-helper.cn/">
     <img src="https://img.shields.io/badge/官网-Uni%20Helper-2b9939?style=for-the-badge" alt="Website">
   </a>
   <a href="./LICENSE">
@@ -20,7 +20,7 @@ Uni Helper 的目标是让 uni-app 开发过程更直观、高效，开发体验
 
 ## 🪄 官网
 
-看看我们的官网 [uni-helper.js.org](https://uni-helper.js.org/)，探索 uni-helper 的所有项目。
+看看我们的官网 [uni-helper.js.org](https://uni-helper.cn/)，探索 uni-helper 的所有项目。
 
 ## 💬 社区
 
